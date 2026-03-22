@@ -6,8 +6,10 @@ Frontend Developer
 - HTML
 - SCSS
 - JavaScript
-- jQuery
+- basic jQuery
+- basic React
 - WordPress
+- GSAP & JS animations
 
 ## 🚀 Projects
 
