@@ -39,7 +39,7 @@ Telegram: @username
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristalit42)](https://github.com/anuraghazra/github-readme-stats)
   
   </td>
 </tr>
