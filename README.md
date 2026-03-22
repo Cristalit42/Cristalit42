@@ -18,19 +18,13 @@ Frontend Developer
 ## 🚀 Some of my projects
 
 ### Landing Page
-Adaptive website with animations.
+Adaptive website with GSAP animations.
 
 🔗 http://lektorr.beget.tech  
-💻 https://github.com/user/project
-
-### Calculator
-Interactive calculator with JS logic.
-
-🔗 https://site.com  
-💻 https://github.com/user/project
+💻 https://github.com/Cristalit42/lektor/tree/main
 
 ## 📫 Contacts
 Email: cristalit42@gmail.com
-Telegram: @username
+Telegram: @Cristalit42
 
 
