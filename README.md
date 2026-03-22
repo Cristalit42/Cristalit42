@@ -11,12 +11,14 @@ Experienced in WordPress integration, animations and modern UI development.
       
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristalit42)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristalit42&show_icons=true)
 ## 🛠 What I do
 
-- pixel perfect layout
-- JS animations
-- GSAP animations
+- Pixel Perfect Layout
+- Responsive Web Development
+- JavaScript Interactions
+- GSAP Animations
+- WordPress Theme Integration
 
 
 ## 🚀 Projects
@@ -33,7 +35,7 @@ http://lektorr.beget.tech
 https://github.com/Cristalit42/lektor
 
 ## 📫 Contacts
-Email: cristalit42@gmail.com
-Telegram: @Cristalit42
 
+📧 Email: cristalit42@gmail.com  
+💬 Telegram: @Cristalit42
 
