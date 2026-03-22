@@ -11,12 +11,12 @@ Frontend Developer
 - WordPress
 - GSAP & JS animations
 
-## 🚀 Projects
+## 🚀 Some of my projects
 
 ### Landing Page
 Adaptive website with animations.
 
-🔗 https://site.com  
+🔗 http://lektorr.beget.tech 
 💻 https://github.com/user/project
 
 ### Calculator
@@ -28,7 +28,19 @@ Interactive calculator with JS logic.
 ## 📫 Contacts
 Email: cristalit42@gmail.com
 Telegram: @username
-![HTML](https://img.shields.io/badge/HTML-Developer-orange)
-![CSS](https://img.shields.io/badge/CSS-SCSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![WordPress](https://img.shields.io/badge/WordPress-CMS-blue)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
