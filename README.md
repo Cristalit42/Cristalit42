@@ -10,8 +10,7 @@ Experienced in WordPress integration, animations and modern UI development.
 <img src="https://skillicons.dev/icons?i=git,wordpress,jquery,scss,css,figma,github,html,js,react,vscode,&perline=14" />
       
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristalit42&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristalit42&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ## 🛠 What I do
 
