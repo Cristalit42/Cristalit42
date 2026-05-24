@@ -7,7 +7,7 @@ Experienced in WordPress integration, animations and modern UI development.
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=git,wordpress,jquery,scss,css,figma,github,html,js,react,vscode,&perline=14" />
+<img src="https://skillicons.dev/icons?i=git,wordpress,jquery,scss,css,figma,github,html,js,react,vscode,next,typescript,tailwind,&perline=14" />
       
 
 
